@@ -8,20 +8,20 @@ include('inc/nav.php')
 ?>
 
 <style>
-    .home-container {
-        text-align: center;
-        margin-top: 50px;
-    }
+.home-container {
+    text-align: center;
+    margin-top: 50px;
+}
 
-    .home-title {
-        font-size: 2rem;
-        font-weight: bold;
-    }
+.home-title {
+    font-size: 2rem;
+    font-weight: bold;
+}
 
-    .home-subtitle {
-        font-size: 4rem;
-        font-weight: lighter;
-    }
+.home-subtitle {
+    font-size: 4rem;
+    font-weight: lighter;
+}
 </style>
 
 
@@ -29,7 +29,7 @@ include('inc/nav.php')
     <div class="row">
         <div class="col">
             <p class="home-title">Home Page</p>
-            <p class="home-subtitle">Welcome Again</p>
+            <p class="home-subtitle">welcome our Basic Auth System project</p>
         </div>
     </div>
 </div>
